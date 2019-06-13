@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/puzzle.png</file>
+        <file>images/earth3.png</file>
+        <file alias="checker">images/checker.jpg</file>
+    </qresource>
+</RCC>
